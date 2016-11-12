@@ -1,0 +1,9 @@
+c:\users\blaz\documents\visual studio 2015\Projects\Dedovanje\Dedovanje\bin\Debug\Dedovanje.exe.config
+c:\users\blaz\documents\visual studio 2015\Projects\Dedovanje\Dedovanje\bin\Debug\Dedovanje.exe
+c:\users\blaz\documents\visual studio 2015\Projects\Dedovanje\Dedovanje\bin\Debug\Dedovanje.pdb
+c:\users\blaz\documents\visual studio 2015\Projects\Dedovanje\Dedovanje\obj\Debug\Dedovanje.csprojResolveAssemblyReference.cache
+c:\users\blaz\documents\visual studio 2015\Projects\Dedovanje\Dedovanje\obj\Debug\Dedovanje.exe
+c:\users\blaz\documents\visual studio 2015\Projects\Dedovanje\Dedovanje\obj\Debug\Dedovanje.pdb
+C:\Users\Blaz\Source\Repos\Dedovanje\Dedovanje\Dedovanje\bin\Debug\Dedovanje.exe.config
+C:\Users\Blaz\Source\Repos\Dedovanje\Dedovanje\Dedovanje\obj\Debug\Dedovanje.exe
+C:\Users\Blaz\Source\Repos\Dedovanje\Dedovanje\Dedovanje\obj\Debug\Dedovanje.pdb
