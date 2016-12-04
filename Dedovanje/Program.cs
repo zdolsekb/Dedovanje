@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Dedovanje
 {
+    //komentar
     class Datum {
         private int dan, mesec, leto;
 
